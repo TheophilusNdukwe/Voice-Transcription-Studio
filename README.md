@@ -1,4 +1,4 @@
-# Voice Transcription Demo
+# Voice Transcription Studio
 
 A real-time voice transcription application built with Elm, leveraging the Web Speech API.
 
